@@ -1,0 +1,60 @@
+--- Page 1 ---
+K Vivekananda CharyEmail : vivekanandachary029@gmail.com
+linkedin GitHub Mobile : +91 7794926313
+Summary
+Aspiring Full-Stack Developer with hands-on experience in React.js, Node.js, Express.js, and MySQL. Built
+AI-based, interactive, and full-stack web applications with exposure to startup and client projects through
+CodeDef. Interested in software development and creating impactful digital solutions.
+Education
+•Aurora Deemed To Be University Associated With NIATYadadri, Telangana
+B.Tech in Computer Science 2025 - Present
+•Sree Dattha Institute Of Engineering And ScienceRanga Reddy, Telangana
+Diploma in Computer Science 2022 - 2025
+Practical Experience
+•Co-Founder - Frontend Developer – CodeDef (Present): Worked as a co-founder and frontend developer in a
+developer-focused organization delivering web solutions for startups and businesses. Developed responsive web
+applications using React.js, JavaScript, HTML, and CSS while collaborating with teams to convert business
+requirements into scalable solutions.
+Projects
+•Rathh – Travel Platform (Client Project under CodeDef): Developing a travel platform acting as a bridge
+between international travelers and curated travel experiences across India. Built reusable React.js components and
+responsive user interfaces while focusing on usability and cross-device compatibility.
+Technologies: React.js, Tailwind CSS
+link : https://rathh.vercel.app/
+•ADU Food Court – Smart Canteen Management System: Developed a full-stack smart canteen management
+platform with separate student and admin dashboards for digital food ordering and operational management.
+Implemented menu CRUD operations, order tracking, pickup slot selection, and role-based authentication.
+Technologies: React.js, Node.js, Express.js, MySQL, Tailwind CSS.
+link : https://adufoodcort.vercel.app/
+•RideShare50 – Ride Sharing Web Application: Developed a web-based ride-sharing platform to help users share
+rides and reduce travel costs.Built interactive user interfaces.Focused on usability and responsiveness to ensure smooth
+user experience across devices.
+Technologies: HTML, CSS, and JavaScript.
+link : https://vivek0929.github.io/Rideshare50/
+•AgentX – Multi-Agent AI Platform: Designed and developed an AI-powered platform with an interactive chat
+interface using HTML, CSS, and JavaScript. Integrated Lyzr AI multi-agent architecture for autonomous prompt
+engineering, workflow execution, API communication, and session management.
+Technologies: HTML, CSS, JavaScript, Lyzr AI, Multi-Agent Systems, REST APIs.
+link : https://vivek0929.github.io/Agent-PromptX/
+•Coding Club Website: Designed and developed a responsive website to showcase coding club activities, events, and
+learning resources. Deployed the website using GitHub Pages.
+Technologies:HTML, CSS, JavaScript and BootStrap.
+link : https://vivek0929.github.io/Coding club/
+•Smart Parking System: Developed a Python-based parking management system for handling vehicle entry, exit, slot
+allocation, duplicate detection, and revenue management using Object-Oriented Programming concepts.
+Technologies: Python, OOP, Data Structures
+•FLAMES Game – Logic-Based Web Application: Created an interactive web application implementing the
+FLAMES relationship prediction logic.Handled user input validation and dynamic result generation using
+JavaScript.Enhanced user engagement through simple design.
+link : https://vivek0929.github.io/FLAMES-GAME/--- Page 2 ---
+Achievements and Responsibilities
+•2nd Position: Runner-Up in a college-level Hackathon conducted at Sree Dattha Institute of Engineering and Science
+(Diploma).
+•ECET 3632: In TG-ECT
+Technical Skills
+•Languages: Python, JavaScript (ES6), SQL, HTML5, CSS3
+•Frontend Frameworks Libraries: React.js, Bootstrap, Tailwind CSS
+•Backend Frameworks: Node.js, Express.js
+•Databases: MySQL
+•Tools: Git, GitHub, Postman, VS Code, Antigravity, Vercel, Railway, Render
+•Concepts: OOP, REST APIs, JWT
